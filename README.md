@@ -1,2 +1,2 @@
 # a001
-My first gith repository
+My first git repository
